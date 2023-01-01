@@ -1,0 +1,4 @@
+Agerbi Marwan:Stock functions
+Slimen Malak:Design+File Management
+Lefi Ameni:History
+Hafteri Mahmoud:screen management 
